@@ -1,2 +1,1 @@
-console.log('Hello world', Date.now());
-
+console.log('Hello world', Date.now(), 'second test');
